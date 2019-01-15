@@ -46,3 +46,8 @@ Linux
 You should now see two new folders called data and code in your swc-python folder on your Desktop.
 
 **3. Download the Python Notebook**
+
+1. Download the Python notebook at: https://www.dropbox.com/s/n6sgnz0h0kcypob/MGMT%20EP207.ipynb?dl=0
+2. Move to the swc-python folder on your Desktop.
+
+**Please email Danielle Kane at kaned@uci.edu if you have any issues.** 
