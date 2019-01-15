@@ -13,7 +13,7 @@ Regardless of how you choose to install it, please make sure you install Python 
 
 We will teach Python using the Jupyter notebook, a programming environment that runs in a web browser. For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all supported (some older browsers, including Internet Explorer version 9 and below, are not).
 
-Windows Video Tutorial: https://www.youtube.com/watch?v=xxQ0mzZ8UvA
+Windows Video Tutorial: (https://www.youtube.com/watch?v=xxQ0mzZ8UvA)
 
 1. Open https://www.anaconda.com/download/#windows with your web browser.
 2. Download the Python 3 installer for Windows.
