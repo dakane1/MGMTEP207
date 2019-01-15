@@ -1,5 +1,10 @@
 # MGMTEP207
 
+Please do the following prior to the in class activity on 1/18/19.  
+    1. Download Anaconda onto your laptop.  There are instructions below for Windows, macOS, and Linux. 
+    2. Download the data into a folder on your desktop.
+    3. Download the Python notebook into the same folder as your data.
+
 **1. Download Python**
 
 Python is a popular language for research computing, and great for general-purpose programming as well. Installing all of its research packages individually can be a bit difficult, so we recommend Anaconda, an all-in-one installer.
@@ -33,9 +38,11 @@ Linux
 
 **2. Obtain lesson materials**
 
-    Download python-novice-inflammation-data.zip and python-novice-inflammation-code.zip.
-    Create a folder called swc-python on your Desktop.
-    Move downloaded files into this newly created folder.
-    Unzip the files.
+1. Download python-novice-inflammation-data.zip (http://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip) and python-novice-inflammation-code.zip (http://swcarpentry.github.io/python-novice-inflammation/code/python-novice-inflammation-code.zip). 
+2. Create a folder called swc-python on your Desktop.
+3. Move downloaded files into this newly created folder. 
+4. Unzip the files. 
 
-You should now see two new folders called data and code in your swc-python directory on your Desktop.
+You should now see two new folders called data and code in your swc-python folder on your Desktop.
+
+**3. Download the Python Notebook**
